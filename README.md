@@ -1,5 +1,7 @@
 # PSO2 GSHADE PRESETS
 
+A simple collection of presets that I modified mildly from [XIV Gshade shader package](https://github.com/Mortalitas/GShade-Presets)
+
 ## Features 
 
 - 2 presets 
