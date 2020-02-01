@@ -1,4 +1,4 @@
-# PSO GSHADE PRESETS
+# PSO2 GSHADE PRESETS
 
 ## Features 
 
