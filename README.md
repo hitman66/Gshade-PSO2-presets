@@ -15,6 +15,7 @@ A simple collection of presets that I modified mildly from [XIV Gshade shader pa
   
     ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/skybane.jpg)
     - Based on [Full-TimeSenpaiSplendor](https://twitter.com/faustsenpai)
+    - Recommended for general usage
 
   - Drybane
 
