@@ -4,7 +4,7 @@ A simple collection of presets that I modified mildly from [XIV Gshade shader pa
 
 ## Features 
 
-- 4 presets 
+- 5 presets 
   - Nightbane
   
      ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/nightbane.jpg)
