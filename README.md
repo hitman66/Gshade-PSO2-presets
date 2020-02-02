@@ -34,3 +34,7 @@ A simple collection of presets that I modified mildly from [XIV Gshade shader pa
     ![Darkbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/darkbane.jpg)
      - Based on [Talim - Gentle Maya](https://twitter.com/talim_sc)
      - Experimental build. Wouldn't go best with bright characters.
+     
+## Installation
+
+- Refer to [here](https://github.com/hitman66/Gshade-PSO2-presets/wiki/Installation)
