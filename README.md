@@ -4,8 +4,9 @@ A simple collection of presets that I modified mildly from [XIV Gshade shader pa
 
 ## Features 
 
- #### • No further complex modification needed. Just apply the preset and you're good to go!
- #### • Comes with 5 presets :_
+• No further complex modification needed. Just apply the preset and you're good to go!
+
+• Comes with 5 presets :_
 
   <details><summary> - Nightbane</summary>
 	
