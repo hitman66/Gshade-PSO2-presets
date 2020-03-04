@@ -48,6 +48,22 @@ A simple collection of presets that I modified mildly from [XIV Gshade shader pa
      - Based on [Talim - Gentle Maya](https://twitter.com/talim_sc)
      - Experimental build. Wouldn't go best with bright characters.</details>
      
+  <details><summary>- Mightbane</summary>
+	 
+  - ## Details
+  
+    ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/mightbane.jpg)
+    - Based on [Full-TimeSenpai - Splendor](https://twitter.com/faustsenpai)
+    - Recommended for challenge lobby </details>
+    
+  <details><summary>- Glidebane</summary>
+	 
+  - ## Details
+  
+    ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/glidebane.jpg)
+    - Based on [Full-TimeSenpai - Splendor](https://twitter.com/faustsenpai)
+    - Recommended for battle lobby </details>
+     
 ## Installation
 
 - Refer to [here](https://github.com/hitman66/Gshade-PSO2-presets/wiki/Installation)
