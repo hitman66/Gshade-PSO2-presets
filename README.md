@@ -56,13 +56,22 @@ A simple collection of presets that I modified mildly from [XIV Gshade shader pa
     - Based on [Full-TimeSenpai - Splendor](https://twitter.com/faustsenpai)
     - Recommended for challenge lobby </details>
     
-  <details><summary>- Glidebane</summary>
+  <details><summary>- Glidebane 2.0</summary>
 	 
   - ## Details
   
     ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/glidebane.jpg)
     - Based on [Full-TimeSenpai - Splendor](https://twitter.com/faustsenpai)
-    - Recommended for battle lobby </details>
+    - Recommended for battle lobby and also everything else ( Like Skybane ) </details>
+    
+ <details><summary>- Greenbane</summary>
+	 
+  - ## Details
+  
+    ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/greenbane.jpg)
+    - Based on "Liths - The_Realness 3.0"
+    - Recommended for forest exploration and alike </details>
+     
      
 ## Installation
 
