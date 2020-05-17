@@ -71,6 +71,14 @@ A simple collection of presets that I modified mildly from [XIV Gshade shader pa
     ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/greenbane.jpg)
     - Based on "Liths - The_Realness 3.0"
     - Recommended for forest exploration and alike </details>
+
+ <details><summary>- Sakurabane</summary>
+	 
+  - ## Details
+  
+    ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/sakurabane.jpg)
+    - Based on [Talim - Focus](https://twitter.com/talim_sc)
+    - Recommended for Shironia or sakura themed cafe </details>
      
      
 ## Installation
