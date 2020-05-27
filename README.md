@@ -1,6 +1,6 @@
 # PSO2 GSHADE PRESETS
 
-A simple collection of presets that I modified mildly from [XIV Gshade shader package](https://github.com/Mortalitas/GShade-Presets) to work well for PSO2JP. 
+A simple collection of presets that I modified mildly from [XIV Gshade shader package](https://github.com/Mortalitas/GShade-Presets) to work well for PSO2NA and PSO2JP.
 
 ## Features 
 
