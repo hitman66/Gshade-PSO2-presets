@@ -5,7 +5,7 @@
 
 A simple collection of presets that I modified mildly from [XIV Gshade shader package](https://github.com/Mortalitas/GShade-Presets) to work well for PSO2NA and PSO2JP.
 
-Note that it was made purely for SS purposes. A modification on those presets would be needed on your end if you were to use this for actual gameplay instead.
+Note that most of those are made purely for SS purposes only. I created `skybane [gameplay].ini` which should be suitable for those who aren't into DOF bullshit altogether.
 
 ## Features 
 
