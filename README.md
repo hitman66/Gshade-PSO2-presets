@@ -1,5 +1,8 @@
 # PSO2 GSHADE PRESETS
 
+![](https://img.shields.io/github/downloads/hitman66/Gshade-PSO2-presets/total)
+![](https://img.shields.io/github/v/release/hitman66/Gshade-PSO2-presets)
+
 A simple collection of presets that I modified mildly from [XIV Gshade shader package](https://github.com/Mortalitas/GShade-Presets) to work well for PSO2NA and PSO2JP.
 
 Note that it was made purely for SS purposes. A modification on those presets would be needed on your end if you were to use this for actual gameplay instead.
