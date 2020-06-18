@@ -13,7 +13,7 @@ Note that most of those are made purely for SS purposes only. I created `skybane
 
 • Comes with several presets :_
 
-  <details><summary> - Nightbane</summary>
+  <details><summary>- Nightbane</summary>
 	
   - ## Details
   
