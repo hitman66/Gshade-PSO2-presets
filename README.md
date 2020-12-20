@@ -45,6 +45,13 @@ Note that most of those are made purely for SS purposes only. I created `skybane
      - Based on [Espresso-Glow-Faint Luster](https://twitter.com/espressolala)
      - Recommended for snowy places and alike</details>
      
+  <details><summary>- Coldbane Mk2</summary>
+
+  - ## Details
+  
+     ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/coldbane_revisited.jpg)
+     - Recommended for winter cafe and everywhere alike</details>
+     
   <details><summary>- Darkbane</summary>
 
   - ## Details
@@ -84,6 +91,13 @@ Note that most of those are made purely for SS purposes only. I created `skybane
     ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/sakurabane.jpg)
     - Based on [Talim - Focus](https://twitter.com/talim_sc)
     - Recommended for Shironia or sakura themed cafe </details>
+
+  <details><summary>- Neonbane</summary>
+	
+  - ## Details
+  
+     ![Nightbane](https://github.com/hitman66/Gshade-PSO2-preset/blob/master/images/neonbane.jpg)
+     - Recommended for "The Bridge" and everywhere alike</details>
      
      
 ## Installation
