@@ -3,9 +3,19 @@
 ![](https://img.shields.io/github/downloads/hitman66/Gshade-PSO2-presets/total)
 ![](https://img.shields.io/github/v/release/hitman66/Gshade-PSO2-presets)
 
-A simple collection of presets that I modified mildly from [XIV Gshade shader package](https://github.com/Mortalitas/GShade-Presets) to work well for PSO2NA and PSO2JP.
+## Update - 19/2/2023
 
-Note that most of those are made purely for SS purposes only. I created `skybane [gameplay].ini` which should be suitable for those who aren't into DOF bullshit altogether.
+I am fully aware of the current situation and definitely would take some time to get back into action, but I believe the best way to begin is to fix the guide itself first. The preset is still usable, but it will require a massive effort to be tweaked so that it would be compatible with NGS eventually.
+
+
+I'm not promising anything, but it's better than not updating everything until now. 
+
+## About
+
+A simple set of presets adapted from the **XIV Gshade shader package** to work well with PSO2NA and PSO2JP.
+
+
+It should be noted that the majority of those are made solely for SS purposes. I've made **skybane [gameplay].ini** , which should be suitable for those who aren't into DOF nonsense. 
 
 ## Features 
 
